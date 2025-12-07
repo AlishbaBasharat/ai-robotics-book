@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g fill="none" stroke="#000" stroke-width="2">
+    <!-- Base -->
+    <rect x="12" y="44" width="40" height="8" rx="2" ry="2"/>
+    <!-- Body -->
+    <rect x="22" y="24" width="20" height="20" rx="2" ry="2"/>
+    <!-- Head -->
+    <rect x="26" y="14" width="12" height="10" rx="2" ry="2"/>
+    <!-- Arms -->
+    <line x1="12" y1="28" x2="22" y2="28"/>
+    <line x1="42" y1="28" x2="52" y2="28"/>
+    <!-- Legs -->
+    <line x1="28" y1="44" x2="28" y2="52"/>
+    <line x1="36" y1="44" x2="36" y2="52"/>
+    <!-- Eyes -->
+    <circle cx="30" cy="19" r="1"/>
+    <circle cx="34" cy="19" r="1"/>
+  </g>
+</svg>
